@@ -33,6 +33,9 @@ OPENAI_MODEL=gpt-4o-mini
 ```
 
 ### 2. Running the Application (do this from root)
+```bash
+npm run dev:api
+```
 
 In one terminal/shell, run:
 ```bash
